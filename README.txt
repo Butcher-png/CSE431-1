@@ -8,7 +8,7 @@ Link to unlisted YouTube video:
 Task-1 : https://youtu.be/VoeNYkVz_mk
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/d/1kLF4Tz8RaM3W15-UnSqvi6xZKv8NtZSKAJVfqx4_iBs/edit#slide=id.g2040968a8a5_0_371
+https://docs.google.com/presentation/d/1kLF4Tz8RaM3W15-UnSqvi6xZKv8NtZSKAJVfqx4_iBs/edit?usp=sharing
 
 
 Project title:
