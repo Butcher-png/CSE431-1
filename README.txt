@@ -18,11 +18,7 @@ Group Number:
 27
 
 Group Members:
-
 20101440 Name Abhijit Saha
-
 20101554 Name Faiza Bushra
-
 20301077 Name Ahmed Anwar
-
 20301267 Name Rubaba Rashid
