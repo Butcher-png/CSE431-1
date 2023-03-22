@@ -1,7 +1,7 @@
 # CSE431
 
 Overleaf link with edit access to ST, RA and my gmail.
-bncnn
+https://www.overleaf.com/1781669765dbdjgbcrryqf
 
 
 Link to unlisted YouTube video:
