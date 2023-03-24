@@ -6,7 +6,7 @@ PDF:
 
 
 Native/original format: 
-[https://drive.google.com/file/d/1K9wTO2pftCwm2M6x5BXK7mibWQzeKTd-/view?usp=sharing]
+https://drive.google.com/file/d/1K9wTO2pftCwm2M6x5BXK7mibWQzeKTd-/view?usp=sharing
 
 
 Name, Author, Edition, year, and publisher of the Book:  
