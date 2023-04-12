@@ -7,6 +7,7 @@ Task-5: https://youtu.be/VoeNYkVz_mk
 
 
 Public link to the draft (Anyone on the internet can view without login):
+https://github.com/Ahmed-Anwar-2001/CSE431/blob/main/Task-05/2023_Spring_Utilizing_Optical_Character_Recognition_to_Summarize_Bengali_text%20(2).pdf
 
 
 Project title:
