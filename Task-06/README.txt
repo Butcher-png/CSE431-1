@@ -3,7 +3,7 @@ https://www.overleaf.com/1781669765dbdjgbcrryqf
 
 
 Link to unlisted YouTube video:
-Task-6: https://youtu.be/VoeNYkVz_mk
+Task-6: https://www.youtube.com/watch?v=hoislK-RyZA
 
 
 Public link to the draft (Anyone on the internet can view without login):
